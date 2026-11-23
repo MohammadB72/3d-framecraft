@@ -1,0 +1,4 @@
+interface:
+  display_name: "3D Framecraft"
+  short_description: "Browse 37 video styles and draft matching 3D prompts"
+  default_prompt: "Use $3d-framecraft to show all 37 video styles, then create a prompt for my topic after I choose a style."
